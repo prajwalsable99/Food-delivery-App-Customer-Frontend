@@ -1,0 +1,2 @@
+export const CREATE_ORDER="CREATE_ORDER";
+export const GET_ALL_ORDERS="GET_ALL_ORDERS";
